@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.navya.feedbacksystem.Main2Activity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/givefb"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="215dp"
+        android:layout_height="48dp"
+        android:hint="Student Name"
+        android:inputType="textPersonName"
+        android:layout_gravity="center_horizontal"/>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="215dp"
+        android:layout_height="wrap_content"
+        android:hint="Subject Name"
+        android:inputType="textPersonName"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="215dp"
+        android:layout_height="43dp"
+        android:hint="Feedback"
+        android:inputType="textPersonName"
+        android:layout_gravity="center_horizontal" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:layout_gravity="center_horizontal" />
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="232dp"
+        android:layout_height="51dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navya\.android\build-cache\cde07ffa018a7720732a905d734d4ec374746bf9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navya\.android\build-cache\81295895ffa9a7fcecfb469d00dae35a51077391\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navya\.android\build-cache\8366f543bc48967855480f3880a2fb5e9da8cc79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navya\.android\build-cache\cf50eb3479cbf90e6e45c3eaf6fd0a6eb7df6953\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navya\.android\build-cache\ae097fa92ab8919b84290a8ca0a57e218b1e42d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\56391ac98f90f78987102ed8e146eba4fc0435da\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\5483bad0503584965b3e03b23deccd14fbac075e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navya\.android\build-cache\9561f661dad4156548910032fb63ec7b08449165\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navya\.android\build-cache\e27ecd2bbe24c9dc1a480521b64b51cf6cbec94f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.navya.feedbacksystem.MainActivity
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.navya.feedbacksystem.Main2Activity
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.example.navya.feedbacksystem.Main3Activity
+ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navya\.android\build-cache\cde07ffa018a7720732a905d734d4ec374746bf9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navya\.android\build-cache\81295895ffa9a7fcecfb469d00dae35a51077391\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navya\.android\build-cache\8366f543bc48967855480f3880a2fb5e9da8cc79\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navya\.android\build-cache\cf50eb3479cbf90e6e45c3eaf6fd0a6eb7df6953\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navya\.android\build-cache\ae097fa92ab8919b84290a8ca0a57e218b1e42d7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\56391ac98f90f78987102ed8e146eba4fc0435da\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\5483bad0503584965b3e03b23deccd14fbac075e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navya\.android\build-cache\9561f661dad4156548910032fb63ec7b08449165\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Navya\.android\build-cache\e27ecd2bbe24c9dc1a480521b64b51cf6cbec94f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Navya\FeedbackSystem\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Navya\.android\build-cache\cde07ffa018a7720732a905d734d4ec374746bf9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Navya\.android\build-cache\81295895ffa9a7fcecfb469d00dae35a51077391\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Navya\.android\build-cache\8366f543bc48967855480f3880a2fb5e9da8cc79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Navya\.android\build-cache\cf50eb3479cbf90e6e45c3eaf6fd0a6eb7df6953\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Navya\.android\build-cache\ae097fa92ab8919b84290a8ca0a57e218b1e42d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\56391ac98f90f78987102ed8e146eba4fc0435da\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Navya\.android\build-cache\5483bad0503584965b3e03b23deccd14fbac075e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Navya\.android\build-cache\9561f661dad4156548910032fb63ec7b08449165\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Navya\.android\build-cache\202306dd92051f0bd9d8156e433e6b1fc779cb98\output\AndroidManifest.xml:26:9-47
